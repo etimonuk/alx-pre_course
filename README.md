@@ -1,1 +1,1 @@
-NonEmpty readme (ammended)
+NonEmpty readme (amended)
